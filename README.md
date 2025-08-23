@@ -119,6 +119,12 @@ PINECONE_ENV=your_pinecone_env
 
 ### 📸 Screenshots
 
+<h4>Chatbot UI<h4>
+<img src="Images/Chatbot.png" alt="Chatbot.png" width="400"/>
+  
+<h4>The Gale Encyclopedia of Medicine Book</h4>
+<img src="Images/Medical Encyclopedia Book.png" alt="The Gale Encyclopedia of Medicine Book" width="400"/>
+
 
 ### Acknowledgments
 

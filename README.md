@@ -120,6 +120,17 @@ PINECONE_ENV=your_pinecone_env
 ### 📸 Screenshots
 
 
+### Acknowledgments
+
+* The Gale Encyclopedia of Medicine
+ (used as knowledge base).
+
+* LangChain
+
+* Pinecone
+
+* Google Gemini
+
 ### 📜 License
 
 This project is licensed under the MIT License.
